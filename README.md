@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![XieLei's GitHub stats](https://github-readme-stats.vercel.app/api?username=xieleixielei&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+- 👴 我叫xielei，坐标天津
+- 🚀 爱好摄影、健身
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xieleixielei)](https://github.com/anuraghazra/github-readme-stats)
 
