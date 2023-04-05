@@ -14,10 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### [![XieLei's GitHub stats](https://github-readme-stats.vercel.app/api?username=xieleixielei&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<img align='right' width='50%' alt='readme' src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=xieleixielei&show_icons=true&theme=react" />
+
 - 👴 我叫xielei，坐标天津
 - 🚀 爱好摄影、健身
-[![XieLei's GitHub stats](https://github-readme-stats.vercel.app/api?username=xieleixielei&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xieleixielei)](https://github.com/anuraghazra/github-readme-stats)
 
