@@ -1,5 +1,3 @@
-<img align='right' width='50%' alt='readme' src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=xieleixielei&show_icons=true&theme=radical" />
-
 👴 Hi there, I’m xielei.
 
 🔭 I’m currently working on a web application that helps people learn new languages more efficiently. It’s a fun project that combines my passion for technology and my interest in language learning.
@@ -16,6 +14,7 @@
 
 😄 Pronouns: He/him.
 
+<img align='right' width='50%' alt='readme' src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=xieleixielei&show_icons=true&theme=radical" />
 
 <img align='right' width='50%' src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yesmore&layout=compact&hide=HTML&theme=react'/>
 
