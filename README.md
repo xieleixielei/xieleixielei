@@ -10,7 +10,7 @@
 
 💬 Ask me about anything related to language learning, web development, or technology in general. I’m always happy to share my knowledge and experience with others.
 
-📫 How to reach me: You can reach me by email at xielei@163.com, or connect with me on LinkedIn.
+📫 How to reach me: You can reach me by email at xieleileileilei@163.com, or connect with me on LinkedIn.
 
 😄 Pronouns: He/him.
 
