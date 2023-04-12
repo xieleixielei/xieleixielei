@@ -15,7 +15,7 @@
 😄 Pronouns: He/him.
 
 <img align='right' width='40%' alt='readme' src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=xieleixielei&show_icons=true&theme=radical" />
-<img align='right' width='30%' src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yesmore&layout=compact&hide=HTML&theme=react'/>
+<img align='right' width='35%' src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yesmore&layout=compact&hide=HTML&theme=react'/>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
