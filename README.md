@@ -1,15 +1,21 @@
 <img align='right' width='50%' alt='readme' src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=xieleixielei&show_icons=true&theme=radical" />
 
-- 👴 我叫xielei，坐标天津
-- 🚀 爱好摄影、健身
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👴 Hi there, I’m xielei.
+
+🔭 I’m currently working on a web application that helps people learn new languages more efficiently. It’s a fun project that combines my passion for technology and my interest in language learning.
+
+🌱 I’m currently learning React and Redux, as I believe they are essential skills for building modern web applications. I’m also exploring machine learning and natural language processing, as I think they have great potential for language learning.
+
+👯 I’m looking to collaborate on open source projects related to language learning or web development. I believe that collaboration is the key to success in the tech industry, and I’m always looking for opportunities to work with like-minded people.
+
+🤔 I’m looking for help with improving my public speaking skills. I’m a bit shy and introverted, and I often struggle with presenting my ideas in front of a large audience. Any tips or advice would be greatly appreciated!
+
+💬 Ask me about anything related to language learning, web development, or technology in general. I’m always happy to share my knowledge and experience with others.
+
+📫 How to reach me: You can reach me by email at xielei@163.com, or connect with me on LinkedIn.
+
+😄 Pronouns: He/him.
+
 
 <img align='right' width='50%' src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yesmore&layout=compact&hide=HTML&theme=react'/>
 
